@@ -4,11 +4,14 @@
 
 [![Twitter: MartinKondor](https://img.shields.io/twitter/follow/MartinKondor?style=social)](https://twitter.com/MartinKondor)
 [![GitHub MartinKondor](https://img.shields.io/github/followers/MartinKondor?label=follow&style=social)](https://github.com/MartinKondor)
+[![Codewars MartinKondor](https://www.codewars.com/users/MartinKondor/badges/micro)](https://www.codewars.com/users/MartinKondor)
 
-* 🏫 I’m currently a college student, doing Computer Science as my major.
-* 👯 I’m looking to collaborate on Machine Learning projects.
-* 💬 Ask me about Technology, Mathematics, or AI.
-* 📫 How to reach me: Add Me On Snapchat: `martinkondor`.
+* 🏫 I’m currently a college student, majoring in Computer Science.
+* 👯 I’m looking forward to collaborate on any Math or Machine Learning related projects.
+* 💬 Feel free to get in touch with me if you need a Developer.
+* 📫 To reach me:
+  - Email: `martinkondor@gmail.com`.
+  - Snapchat: `martinkondor`.
 * ⚡ Fun facts: I like to make Machines learn.
 
 ## 📈 Stats
