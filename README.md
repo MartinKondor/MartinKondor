@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <a href="https://martinkondor.github.io" title="My website">Martin Kondor</a>! 👋
+  Hi there, I'm <a href="https://martinkondor.github.io" title="My website">Martin Kondor</a>! 👋
 </h1>
 
 [![Twitter: MartinKondor](https://img.shields.io/twitter/follow/MartinKondor?style=social)](https://twitter.com/MartinKondor)
