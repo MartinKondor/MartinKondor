@@ -2,7 +2,6 @@
   Hi there, I'm <a href="https://martinkondor.github.io" title="My website">Martin Kondor</a>! 👋
 </h1>
 
-[![Twitter: MartinKondor](https://img.shields.io/twitter/follow/MartinKondor?style=social)](https://twitter.com/MartinKondor)
 [![GitHub MartinKondor](https://img.shields.io/github/followers/MartinKondor?label=follow&style=social)](https://github.com/MartinKondor)
 [![Codewars MartinKondor](https://www.codewars.com/users/MartinKondor/badges/micro)](https://www.codewars.com/users/MartinKondor)
 
