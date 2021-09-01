@@ -10,8 +10,9 @@
 * 💬 Feel free to get in touch with me if you need a Developer.
 * 📫 To reach me:
   - Email: `martinkondor@gmail.com`.
-  - Snapchat: `martinkondor`.
+  - Website: <a href="https://martinkondor.github.io" title="My website">`https://martinkondor.github.io`</a>.
 * ⚡ Fun facts: I like to make Machines learn.
+* 🔭 I’m currently working on <a href="https://github.com/MartinKondor/positron" title="My website">Positron</a> (A Machine Learning Library).
 
 ## 📈 Stats
 
@@ -28,14 +29,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MartinKondor&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<br>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> _I love connecting with different people so if you want to say hi, I'll be happy to meet you more!_ 😄
-
+<!--
 ---
 
-<!--
 **MartinKondor/MartinKondor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
