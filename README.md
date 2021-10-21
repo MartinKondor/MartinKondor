@@ -12,12 +12,11 @@
   - Email: `martinkondor@gmail.com`.
   - Website: <a href="https://martinkondor.github.io" title="My website">`https://martinkondor.github.io`</a>.
 * ⚡ Fun facts: I like to make Machines learn.
-* 🔭 I’m currently working on <a href="https://github.com/MartinKondor/positron" title="My website">Positron</a> (A Machine Learning Library).
 
 ## 📈 Stats
 
 <a href="https://github.com/MartinKondor/MartinKondor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&hide=css,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MartinKondor's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&hide=css,html,jupyter notebook&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MartinKondor's GitHub Stats" />
 </a>
 
 <a href="https://github.com/MartinKondor/MartinKondor">
