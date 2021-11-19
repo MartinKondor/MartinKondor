@@ -6,7 +6,7 @@
 [![Codewars MartinKondor](https://www.codewars.com/users/MartinKondor/badges/micro)](https://www.codewars.com/users/MartinKondor)
 
 * 🏫 I’m currently a college student, majoring in Computer Science.
-* 👯 I’m looking forward to collaborate on any Math or Machine Learning related projects.
+* 🍎 I’m looking forward to collaborate on any Math or Machine Learning related projects.
 * 💬 Feel free to get in touch with me if you need a Developer.
 * 📫 To reach me:
   - Email: `martinkondor@gmail.com`.
