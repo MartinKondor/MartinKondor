@@ -11,23 +11,29 @@
 * 📫 To reach me:
   - Email: `martinkondor@gmail.com`.
   - Website: <a href="https://martinkondor.github.io" title="My website">`https://martinkondor.github.io`</a>.
-* ⚡ Fun facts: I like to make Machines learn.
+* ⚡ Fun fact: I like to make Machines learn.
 
 ## 📈 Stats
 
+<p align="center">
 <a href="https://github.com/MartinKondor/MartinKondor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&hide=css,html,jupyter notebook&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&langs_count=4" alt="MartinKondor's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&hide=css,html,jupyter notebook&langs_count=3&theme=dark" alt="MartinKondor's GitHub Stats" />
 </a>
 
 <a href="https://github.com/MartinKondor/MartinKondor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MartinKondor's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&line_height=27&count_private=true&theme=dark" alt="MartinKondor's GitHub Stats" />
 </a>
+</p>
 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MartinKondor&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MartinKondor&column=7&theme=darkhub" alt="MartinKondor's GitHub Stats" />
+ 
+</p>
+  
 <!--
 ---
 
