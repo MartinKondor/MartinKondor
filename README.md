@@ -10,6 +10,7 @@
 [![Fiverr MartinKondor](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/martinkondor?up_rollout=true)
 
 * 🏫 I’m currently a college student, majoring in __Computer Science__.
+* 💼 I’m currently working at __[Growth Engine AI](https://growthengineai.com)__ as a __Machine Learning Back-End Engineer__.
 * 🍎 I’m looking forward to collaborate on any __Math__, __Deep__, __Reinforcement__ or __Machine Learning__ related projects.
 * 💬 I am a __[Freelance Developer](https://www.fiverr.com/martinkondor?up_rollout=true)__. Feel free to get in touch with me if you need a good __React App__, __Web Scraper__, __Website__ or any other software.
 * 📫 To reach me:
@@ -20,11 +21,11 @@
 
 <p align="center">
 <a href="https://github.com/MartinKondor/MartinKondor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&hide=tex,css,html,jupyter notebook&langs_count=3&theme=dark" alt="MartinKondor's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&layout=compact&theme=tokyonight&line_height=30" alt="MartinKondor's GitHub Stats" />
 </a>
 
 <a href="https://github.com/MartinKondor/MartinKondor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&line_height=27&count_private=true&theme=dark" alt="MartinKondor's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="MartinKondor's GitHub Stats" />
 </a>
 </p>
 
@@ -33,7 +34,7 @@
 
 <p align="center">
   
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MartinKondor&column=7&theme=darkhub" alt="MartinKondor's GitHub Stats" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MartinKondor&column=7&theme=tokyonight" alt="MartinKondor's GitHub Stats" />
  
 </p>
 
