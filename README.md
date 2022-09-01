@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://martinkondor.github.io" title="My website">Martin Kondor</a>! 👋
+  👋 - Hi there, I'm Martin Kondor! - 👋
 </h1>
 
 [![GitHub MartinKondor](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinKondor)
@@ -10,34 +10,49 @@
 [![Fiverr MartinKondor](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/martinkondor?up_rollout=true)
 
 * 🏫 I’m currently a college student, majoring in __Computer Science__.
-* 💼 I’m currently working at __[Growth Engine AI](https://growthengineai.com)__ as a __Machine Learning Back-End Engineer__.
+* 💼 I’m currently working at __[Growth Engine AI](https://growthengineai.com)__ as a __ML Back-End Engineer__.
 * 🍎 I’m looking forward to collaborate on any __Math__, __Deep__, __Reinforcement__ or __Machine Learning__ related projects.
 * 💬 I am a __[Freelance Developer](https://www.fiverr.com/martinkondor?up_rollout=true)__. Feel free to get in touch with me if you need a good __React App__, __Web Scraper__, __Website__ or any other software.
 * 📫 To reach me:
   - Email: __[martinkondor@gmail.com](mailto:martinkondor@gmail.com)__.
   - Website: __[https://martinkondor.github.io](https://martinkondor.github.io)__.
 
+## 👨‍💻 Description
+
+```python
+martin_kondor = Person(
+  name=("Martin", "Kondor"),
+  works_in=[Python, CPlusPlus, C, Java, HTML, CSS, JavaScript],
+  back_end=[NodeJS, ExpressJS, Flask, FastAPI],
+  front_end=[React, JQuery, Bootstrap],
+  web_scraping=[Selenium, BeautifulSoup],
+  database=[PostgreSQL, MySQL, SQLite, MongoDB],
+  machine_learning=[Sklearn, Tensorflow, Keras],
+  dev_ops=[Docker]
+)
+```
+
 ## 📈 Stats
 
 <p align="center">
-<a href="https://github.com/MartinKondor/MartinKondor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&layout=compact&theme=tokyonight&line_height=30" alt="MartinKondor's GitHub Stats" />
-</a>
 
 <a href="https://github.com/MartinKondor/MartinKondor">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="MartinKondor's GitHub Stats" />
 </a>
+
+<a href="https://github.com/MartinKondor/MartinKondor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&langs_count=3&theme=tokyonight&hide=jupyter%20notebook,html,css,tex,c%2B%2B" alt="MartinKondor's GitHub Stats" />
+</a>
+
 </p>
-
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MartinKondor&column=7&theme=tokyonight" alt="MartinKondor's GitHub Stats" />
- 
-</p>
 
+<a href="https://github.com/MartinKondor/MartinKondor">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinKondor&theme=dark" alt="MartinKondor's GitHub Stats" />
+</a>
+
+</p>
 
 <!--
 ---
