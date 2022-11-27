@@ -16,20 +16,18 @@ Hi, I'm Martin Kondor!
 
 <br/>
 
-<!--
-<p align="center">
-
-<a href="https://github.com/MartinKondor/MartinKondor">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinKondor&theme=dark" alt="MartinKondor's GitHub Stats" />
-</a>
-</p>
--->
-
 <p align="center">
   <a href="https://github.com/MartinKondor/MartinKondor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&langs_count=3&theme=tokyonight&hide=jupyter%20notebook,html,css,tex" alt="MartinKondor's GitHub Stats" />
 </a>
   <a href="https://github.com/MartinKondor/MartinKondor">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="MartinKondor's GitHub Stats" />
+</a>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/MartinKondor/MartinKondor">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinKondor&theme=dark" alt="MartinKondor's GitHub Stats" />
 </a>
 </p>
