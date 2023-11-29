@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Martin Kondor!
+Hi, I'm Martin Kondor
 </h1>
 
 [![GitHub MartinKondor](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinKondor)
@@ -9,8 +9,6 @@ Hi, I'm Martin Kondor!
 [![Codewars MartinKondor](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/MartinKondor)
 [![HuggingFace MartinKondor](https://img.shields.io/badge/🤗-Hugging_Face-lightgrey?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/martinkondor/)
 
-* 🏫 __Computer Science__ student. 
-* 💼 __ML Back-End Engineer__ at __[Growth Engine AI](https://growthengineai.com)__.
 * 📫 Email: __[martinkondor@gmail.com](mailto:martinkondor@gmail.com)__.
 * 🌍 Website: __[https://martinkondor.github.io](https://martinkondor.github.io)__.
 
