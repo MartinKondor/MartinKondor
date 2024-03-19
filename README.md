@@ -1,31 +1,33 @@
-<h1 align="center">
-Hi, I'm Martin Kondor
-</h1>
+## Hello, I'm Martin!
 
-[![GitHub MartinKondor](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinKondor)
-[![ResearchGate MartinKondor](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Martin-Kondor)
-[![Kaggle MartinKondor](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/martinkondor)
-[![StackOverflow MartinKondor](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9160124/martinkondor)
-[![Codewars MartinKondor](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/MartinKondor)
-[![HuggingFace MartinKondor](https://img.shields.io/badge/🤗-Hugging_Face-lightgrey?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/martinkondor/)
+<br />
 
-* 📫 Email: __[martinkondor@gmail.com](mailto:martinkondor@gmail.com)__.
-* 🌍 Website: __[https://martinkondor.github.io](https://martinkondor.github.io)__.
+**About me**
 
-<br/>
+- 🚀 I am a holder of a BSc in Computer Science with Honors
 
-<p align="center">
-  <a href="https://github.com/MartinKondor/MartinKondor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&langs_count=3&theme=tokyonight&hide=jupyter%20notebook,html,css,tex" alt="MartinKondor's GitHub Stats" />
+- 📈 I have over +4 years of experience in Software Engineering
+
+- ❤️ I love writing Python, and building full-stack projects
+
+- 💬 Ask me about anything [here](mailto:martinkondor@gmail.com)
+
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> 
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MartinKondor's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook,html,css,tex,twig,cmake,makefile" /> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/MartinKondor/MovieRecommender">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=MovieRecommender&theme=buefy" />
 </a>
-  <a href="https://github.com/MartinKondor/MartinKondor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="MartinKondor's GitHub Stats" />
+<a href="https://github.com/MartinKondor/TinyChat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=TinyChat&theme=buefy" />
 </a>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/MartinKondor/MartinKondor">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinKondor&theme=dark" alt="MartinKondor's GitHub Stats" />
-</a>
-</p>
