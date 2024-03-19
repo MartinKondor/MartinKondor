@@ -2,7 +2,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/MartinKondor/MartinKondor/blob/main/code.gif?raw=true" width="468" height="300" />
+<img align="right" alt="GIF" src="https://github.com/MartinKondor/MartinKondor/blob/main/code.gif?raw=true" width="320" />
 
 
 **About me**
