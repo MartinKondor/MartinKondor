@@ -27,15 +27,15 @@
 
 <br/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MartinKondor's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook,html,css,tex,twig,cmake,makefile" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="MartinKondor's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css,tex,twig,cmake,makefile" /> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/MartinKondor/MovieRecommender">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=MovieRecommender&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=MovieRecommender&theme=tokyonight" />
 </a>
 <a href="https://github.com/MartinKondor/TinyChat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=TinyChat&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=TinyChat&theme=tokyonight" />
 </a>
