@@ -29,9 +29,11 @@
 
 #### Statistics
 
+<!--
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=MartinKondor&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="MartinKondor's github stats" height=175 />
 </a>
+-->
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css,tex,twig,cmake,makefile" height=175 />
 </a>
