@@ -13,12 +13,11 @@
 -->
 
 <!--
-<div align="center">
+<div align="left">
   <img src="code.gif" width="3vw" /> 
 </div>
 -->
 
-<!--
 <div align="left">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=martinkondor&show_icons=true&theme=tokyonight&hide_border=true&include_total_commits=true" alt="MartinKondor's github stats" height=175 /> 
@@ -36,4 +35,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=TinyChat&theme=tokyonight" height=120 /> 
   </a>
 </div>
--->
