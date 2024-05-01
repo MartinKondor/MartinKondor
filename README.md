@@ -12,19 +12,6 @@
 </div>
 -->
 
-```php
-  /$$$$$$  /$$$$$$       /$$$$$$$                      
- /$$__  $$|_  $$_/      | $$__  $$                     
-| $$  \ $$  | $$        | $$  \ $$  /$$$$$$  /$$    /$$
-| $$$$$$$$  | $$        | $$  | $$ /$$__  $$|  $$  /$$/
-| $$__  $$  | $$        | $$  | $$| $$$$$$$$ \  $$/$$/ 
-| $$  | $$  | $$        | $$  | $$| $$_____/  \  $$$/  
-| $$  | $$ /$$$$$$      | $$$$$$$/|  $$$$$$$   \  $//$$
-|__/  |__/|______/      |_______/  \_______/    \_/|__/     
-```
-
-#### Statistics
-
 <div align="left">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=martinkondor&show_icons=true&theme=tokyonight&hide_border=true&include_total_commits=true" alt="MartinKondor's github stats" height=175 /> 
@@ -33,8 +20,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css,tex,twig,cmake,makefile" height=175 /> 
   </a>
 </div>
-
-#### Top Repositories
 
 <div align="left">
   <a href="https://github.com/MartinKondor/MovieRecommender">
