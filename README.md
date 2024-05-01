@@ -12,9 +12,11 @@
 </div>
 -->
 
+<!--
 <div align="center">
   <img src="code.gif" width="3vw" /> 
 </div>
+-->
 
 <!--
 <div align="left">
