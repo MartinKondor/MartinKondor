@@ -12,7 +12,9 @@
 </div>
 -->
 
-<img src="code.gif" width=590 /> 
+<div align="center">
+  <img src="code.gif" width=590 /> 
+</div>
 
 <!--
 <div align="left">
