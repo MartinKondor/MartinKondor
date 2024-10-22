@@ -28,8 +28,8 @@
 </div>
 
 <div align="left">
-  <a href="https://github.com/MartinKondor/MovieRecommender">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=MovieRecommender&theme=tokyonight" height=120 /> 
+  <a href="https://github.com/MartinKondor/chat-with-document">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=chat-with-document&theme=tokyonight" height=120 /> 
   </a>
   <a href="https://github.com/MartinKondor/TinyChat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=TinyChat&theme=tokyonight" height=120 /> 
