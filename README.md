@@ -12,12 +12,11 @@
 </div>
 -->
 
-<!--
 <div align="left">
   <img src="code.gif" width="3vw" /> 
 </div>
--->
 
+<!--
 <div align="left">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=martinkondor&show_icons=true&theme=tokyonight&hide_border=true&include_total_commits=true" alt="MartinKondor's github stats" height=175 /> 
@@ -26,7 +25,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKondor&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css,tex,twig,cmake,makefile" height=175 /> 
   </a>
 </div>
+-->
 
+<!--
 <div align="left">
   <a href="https://github.com/MartinKondor/chat-with-document">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=chat-with-document&theme=tokyonight" height=120 /> 
@@ -35,3 +36,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinKondor&repo=TinyChat&theme=tokyonight" height=120 /> 
   </a>
 </div>
+-->
